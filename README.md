@@ -206,8 +206,6 @@ You can watch a quick demo of the game here:
 
 https://github.com/user-attachments/assets/978c2cd0-16d0-4097-bc04-ebd58f916979
 
-*Replace `YOUR_VIDEO_ID` with your YouTube video's ID.*
-
 ---
 
 ## 📝 Full Tutorial
